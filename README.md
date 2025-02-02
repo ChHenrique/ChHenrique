@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-💡 Sou fascinado por tecnologia desde pequeno, adoro aprender coisas novas e inventar. Minha curiosidade e vontade de aprender me levaram ao mundo da programação, e desde então, estou sempre explorando maneiras me renovar 😸
+💡 Sou fascinado por tecnologia desde pequeno, adoro aprender coisas novas e inventar. Minha curiosidade e vontade de aprender me levaram ao mundo da programação, e desde então, estou sempre explorando maneiras de me renovar 😸
 
 🎓 Atualmente, estou no 3º ano técnico em Desenvolvimento de Sistemas da Francisca Neilyta Carneiro Albuquerque.
 
@@ -10,20 +10,6 @@
 
 Sempre aberto a novas oportunidades e conexões 🚀  
 
-    <a href="https://github.com/ChHenrique?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ChHenrique?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
 </p>
 
 ---
