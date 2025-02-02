@@ -8,7 +8,7 @@
 
 📍 Moro no Ceará, Brasil
 
-Sempre aberto a novas oportunidades e conexões 🚀  
+  Sempre aberto a novas oportunidades e conexões 🚀  
 
 </p>
 
