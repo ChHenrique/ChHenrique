@@ -4,7 +4,7 @@
 
 💡 Sempre por aí, mexendo, remexendo e tentando entender como as coisas funcionam 🐸
 
-🎓 Atualmente, estou no 3º ano técnico em Desenvolvimento de Sistemas da Francisca Neilyta Carneiro Albuquerque
+🎓 Atualmente, estou no 3º ano técnico em Desenvolvimento de Sistemas da EEEP Francisca Neilyta Carneiro Albuquerque
 
   Tô sempre aberto a novas ideias, papos, oportunidades e conexões, só me chamar 😸 
 
