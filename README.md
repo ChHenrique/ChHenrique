@@ -1,6 +1,6 @@
 # Olá 👋 Eu sou o Claudio Henrique 👩🏻‍💻 
 
-**`Desenvolvedor`**
+**`Desenvolvedor Web`**
 
 💡 Sempre por aí, mexendo, remexendo e tentando entender como as coisas funcionam 🐸
 
