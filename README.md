@@ -6,7 +6,7 @@
 
 🎓 Atualmente, estou no 3º ano técnico em Desenvolvimento de Sistemas da Francisca Neilyta Carneiro Albuquerque
 
-  Tô sempre aberto a novas idéias, papos, oportunidades e conexões, só me chamar 😸 
+  Tô sempre aberto a novas ideias, papos, oportunidades e conexões, só me chamar 😸 
 
 </p>
 
