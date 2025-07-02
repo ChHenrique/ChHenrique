@@ -1,12 +1,12 @@
-# Olá 👋 Eu sou Claudio Henrique 👩🏻‍💻 
+# Olá 👋 Eu sou o Claudio Henrique 👩🏻‍💻 
 
-**`Desenvolvedor BackEnd`**
+**`Desenvolvedor`**
 
-💡 Sou fascinado por tecnologia desde pequeno, adoro aprender coisas novas e inventar. Minha curiosidade e vontade de aprender me levaram ao mundo da programação, e desde então, estou sempre explorando maneiras de me renovar 😸
+💡 Sempre por aí, mexendo, remexendo e tentando entender como as coisas funcionam 🐸
 
-🎓 Atualmente, estou no 3º ano técnico em Desenvolvimento de Sistemas da Francisca Neilyta Carneiro Albuquerque.
+🎓 Atualmente, estou no 3º ano técnico em Desenvolvimento de Sistemas da Francisca Neilyta Carneiro Albuquerque
 
-  Sempre aberto a novas oportunidades e conexões 🚀  
+  Tô sempre aberto a novas idéias, papos, oportunidades e conexões, só me chamar 😸 
 
 </p>
 
