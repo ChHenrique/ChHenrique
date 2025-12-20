@@ -1,4 +1,4 @@
-# Olá 👋 Eu sou o Claudio Henrique 👩🏻‍💻 
+# Olá 👋 Eu sou Claudio Henrique 👩🏻‍💻 
 
 **`Desenvolvedor Web`**
 
