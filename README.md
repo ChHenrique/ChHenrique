@@ -2,11 +2,11 @@
 
 **`Desenvolvedor Web`**
 
-💡 Sempre por aí, mexendo, remexendo e tentando entender como as coisas funcionam 🐸
+💡 Sempre por aí, mexendo, remexendo e tentando entender como as coisas funcionam 
 
 🎓 Sou Técnico em Desenvolvimento de Sistemas pela Escola Profissional Francisca Neilyta
 
-  Tô sempre aberto a novas ideias, papos, oportunidades e conexões, só me chamar 😸 
+😸 Tô sempre aberto a novas ideias, papos, oportunidades e conexões, só me chamar 
 
 </p>
 
